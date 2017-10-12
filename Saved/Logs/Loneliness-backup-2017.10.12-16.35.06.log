@@ -1,0 +1,1428 @@
+﻿Log file open, 10/12/17 15:39:06
+LogInit:Display: Running engine for game: Loneliness
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1337547697) SRandInit(1337547697).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 1.873359
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/UE_4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.12-13.39.07:407][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.12-13.39.07:408][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.12-13.39.07:502][  0]LogInit: Computer: PROGRAM2
+[2017.10.12-13.39.07:502][  0]LogInit: User: Администратор
+[2017.10.12-13.39.07:502][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.10.12-13.39.07:502][  0]LogInit: High frequency timer resolution =2.929697 MHz
+[2017.10.12-13.39.07:503][  0]LogMemory: Memory total: Physical=3.0GB (3GB approx)
+[2017.10.12-13.39.07:503][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.12-13.39.07:503][  0]LogMemory: Process Physical Memory: 254.77 MB used, 254.77 MB peak
+[2017.10.12-13.39.07:503][  0]LogMemory: Process Virtual Memory: 259.83 MB used, 259.83 MB peak
+[2017.10.12-13.39.07:503][  0]LogMemory: Physical Memory: 1544.69 MB used, 3070.49 MB total
+[2017.10.12-13.39.07:503][  0]LogMemory: Virtual Memory: 588.29 MB used, 8388608.00 MB total
+[2017.10.12-13.39.08:177][  0]LogTextLocalizationManager: No translations for ('ru-RU') exist, falling back to 'en' for localization and internationalization data.
+[2017.10.12-13.39.10:749][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.12-13.39.10:929][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 240' (Feature Level 10_0)
+[2017.10.12-13.39.10:929][  0]LogD3D11RHI:       466/0/1279 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.12-13.39.10:929][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.12-13.39.10:941][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.12-13.39.10:942][  0]LogD3D11RHI:     GPU DeviceId: 0xca3 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.12-13.39.10:942][  0]LogWindows: EnumDisplayDevices:
+[2017.10.12-13.39.10:942][  0]LogWindows:    0. 'NVIDIA GeForce GT 240' (P:1 D:1)
+[2017.10.12-13.39.10:942][  0]LogWindows:    1. 'NVIDIA GeForce GT 240' (P:0 D:0)
+[2017.10.12-13.39.10:942][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2017.10.12-13.39.10:943][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.10.12-13.39.10:943][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.10.12-13.39.10:943][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2017.10.12-13.39.10:943][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 240
+[2017.10.12-13.39.10:943][  0]LogD3D11RHI:   Driver Version: 342.01 (internal:21.21.13.4201, unified:342.01)
+[2017.10.12-13.39.10:943][  0]LogD3D11RHI:      Driver Date: 11-14-2016
+[2017.10.12-13.39.10:943][  0]LogRHI: Texture pool is 326 MB (70% of 466 MB)
+[2017.10.12-13.39.10:959][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.12-13.39.10:982][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 3)
+[2017.10.12-13.39.19:226][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.10.12-13.39.19:227][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (D:/Git/Loneliness/Intermediate/Shaders/WorkingDirectory/4560/).
+[2017.10.12-13.39.19:227][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/TEMP/UnrealShaderWorkingDir/E1ED725D46DD347E2F9BB099F8733A20/'.
+[2017.10.12-13.39.19:227][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.10.12-13.39.28:766][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.12-13.39.28:790][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.12-13.39.28:812][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.12-13.39.28:834][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.12-13.39.28:857][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.10.12-13.39.28:908][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.10.12-13.39.28:927][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.12-13.39.28:946][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.12-13.39.28:966][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.12-13.39.28:986][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.12-13.39.29:005][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.12-13.39.29:044][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.12-13.39.29:044][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.12-13.39.29:046][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.10.12-13.39.29:145][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.10.12-13.39.29:163][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.10.12-13.39.29:183][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.12-13.39.29:203][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.12-13.39.29:222][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.12-13.39.29:256][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.10.12-13.39.29:256][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.10.12-13.39.29:925][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.10.12-13.39.30:867][  0]LogDerivedDataCache: Loaded boot cache 0.94s 57MB C:/Users/Администратор/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.10.12-13.39.30:868][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Администратор/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.10.12-13.39.30:868][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Git/Loneliness/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.12-13.39.30:868][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.12-13.39.30:868][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Git/Loneliness/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.12-13.39.30:868][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.12-13.39.30:917][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.12-13.39.30:930][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Администратор/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.12-13.39.35:013][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.12-13.39.35:025][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.12-13.39.35:027][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.12-13.39.35:508][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.10.12-13.39.35:508][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.10.12-13.39.35:508][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.10.12-13.39.36:935][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: loneliness, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2630857635
+[2017.10.12-13.39.37:000][  0]LogAssetRegistry: FAssetRegistry took 0.0206 seconds to start up
+[2017.10.12-13.39.37:056][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.047503 seconds
+[2017.10.12-13.39.37:072][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2017.10.12-13.39.37:072][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2017.10.12-13.39.37:072][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.12-13.39.37:091][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.12-13.39.38:827][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.12-13.39.38:827][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.12-13.39.47:679][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.12-13.39.47:710][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.12-13.39.48:321][  0]SourceControl: Info Source control is disabled
+[2017.10.12-13.39.49:408][  0]LogEngine: Initializing Engine...
+[2017.10.12-13.39.49:409][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.12-13.39.49:839][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.12-13.39.49:878][  0]LogInit: XAudio2 using 'Realtek Digital Output(RCA) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.12-13.39.49:926][  0]LogInit: FAudioDevice initialized.
+[2017.10.12-13.39.50:012][  0]LogDerivedDataCache: Saved boot cache 0.09s 57MB C:/Users/Администратор/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.10.12-13.39.50:054][  0]LogInit: Texture streaming: Enabled
+[2017.10.12-13.39.50:164][  0]LogInit: Transaction tracking system initialized
+[2017.10.12-13.39.50:334][  0]BlueprintLog: New page: Editor Load
+[2017.10.12-13.39.50:767][  0]LocalizationService: Info Localization service is disabled
+[2017.10.12-13.39.51:512][  0]LogConsoleResponse:Display: 
+[2017.10.12-13.39.53:159][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.12-13.39.53:159][  0]LogCook:Display: Mobile HDR setting 1
+[2017.10.12-13.39.54:094][  0]LogFileCache: Scanning file cache for directory 'D:/Git/Loneliness/Content/' took 0.02s
+[2017.10.12-13.39.54:690][  0]Cmd: MAP LOAD FILE="D:/Git/Loneliness/Content/Maps/Laboratories.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2017.10.12-13.39.54:692][  0]LightingResults: New page: Lighting Build
+[2017.10.12-13.39.54:699][  0]MapCheck: New page: Map Check
+[2017.10.12-13.39.54:699][  0]LightingResults: New page: Lighting Build
+[2017.10.12-13.39.55:776][  0]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning InputAction Event references unknown Action 'Crouch' for  K2Node_InputAction_32
+[2017.10.12-13.39.55:785][  0]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [0056.04] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 19 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2017.10.12-13.39.55:787][  0]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [0056.05] Compile of Ue4ASP_Character successful, but with 2 Warning(s) [in 1 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2017.10.12-13.39.55:787][  0]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [0056.05] Compile of Ue4ASP_Character successful, but with 3 Warning(s) [in 0 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2017.10.12-13.39.55:864][  0]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning InputAction Event references unknown Action 'Crouch' for  K2Node_InputAction_32
+[2017.10.12-13.39.55:873][  0]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [0056.13] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 17 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2017.10.12-13.39.55:873][  0]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [0056.13] Compile of Ue4ASP_Character successful, but with 2 Warning(s) [in 0 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2017.10.12-13.39.55:875][  0]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [0056.13] Compile of Ue4ASP_Character successful, but with 3 Warning(s) [in 1 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2017.10.12-13.40.03:394][  0]LogAIModule: Creating AISystem for world Laboratories
+[2017.10.12-13.40.07:755][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2017.10.12-13.40.07:758][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.12-13.40.08:049][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 291.453ms to complete.
+[2017.10.12-13.40.08:050][  0]LogFileHelpers: Loading map 'Laboratories' took 13.359
+[2017.10.12-13.40.08:354][  0]LogCollectionManager: Loaded 1 collections in 0.004893 seconds
+[2017.10.12-13.40.08:403][  0]LogFileCache: Scanning file cache for directory 'D:/Git/Loneliness/Saved/Collections/' took 0.01s
+[2017.10.12-13.40.08:403][  0]LogFileCache: Scanning file cache for directory 'D:/Git/Loneliness/Content/Developers/Администратор/Collections/' took 0.01s
+[2017.10.12-13.40.08:403][  0]LogFileCache: Scanning file cache for directory 'D:/Git/Loneliness/Content/Collections/' took 0.01s
+[2017.10.12-13.40.08:403][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000009 seconds
+[2017.10.12-13.40.08:403][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000001 seconds
+[2017.10.12-13.40.08:428][  0]LogContentBrowser: Native class hierarchy populated in 0.0248 seconds. Added 2141 classes and 415 folders.
+[2017.10.12-13.40.08:438][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.12-13.40.08:438][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.12-13.40.08:440][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0012 seconds. Added 12 classes and 0 folders.
+[2017.10.12-13.40.08:453][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2017.10.12-13.40.10:213][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.10.12-13.40.10:245][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0012 seconds. Added 1 classes and 3 folders.
+[2017.10.12-13.40.10:274][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.10.12-13.40.10:328][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.10.12-13.40.10:338][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.10.12-13.40.10:407][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.10.12-13.40.10:407][  0]LogLoad: (Engine Initialization) Total time: 70.67 seconds
+[2017.10.12-13.40.10:407][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 1.99 seconds
+[2017.10.12-13.40.10:407][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.10.12-13.40.10:749][  0]LogOcInput: OculusInput pre-init called
+[2017.10.12-13.40.10:782][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.10.12-13.40.11:285][  0]LogRenderer: Reallocating scene render targets to support 1208x568 (Frame:2).
+[2017.10.12-13.40.11:624][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Git/Loneliness/Content/' took 0.86s
+[2017.10.12-13.40.12:630][  4]LogAssetRegistry: Asset discovery search completed in 35.6566 seconds
+[2017.10.12-13.40.12:630][  4]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000022 seconds (found 0 objects)
+[2017.10.12-13.40.12:630][  4]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000065 seconds (updated 0 objects)
+[2017.10.12-13.40.18:767][ 61]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0023 seconds. Added 112 classes and 0 folders.
+[2017.10.12-13.40.26:626][175]LogRenderer: Reallocating scene render targets to support 1208x892 (Frame:115).
+[2017.10.12-13.42.23:144][423]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-13.42.23:173][423]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.12-13.42.23:173][423]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2017.10.12-13.42.23:645][423]LogPlayLevel: [PlayLevel]   Compiling animbp as a dependent...
+[2017.10.12-13.42.23:789][423]LogPlayLevel: [PlayLevel]   Compiling character_bp as a dependent...
+[2017.10.12-13.42.25:774][423]LogPlayLevel: PlayLevel: Blueprint regeneration took 2601 ms (3 blueprints)
+[2017.10.12-13.42.25:982][423]PIE: New page: PIE session: Laboratories (Oct 12, 2017, 5:42:25 PM)
+[2017.10.12-13.42.25:987][423]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Laboratories
+[2017.10.12-13.42.26:250][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.262517s)
+[2017.10.12-13.42.26:252][423]LogAIModule: Creating AISystem for world Laboratories
+[2017.10.12-13.42.26:260][423]LogPlayLevel: PIE: World Init took: (0.009886s)
+[2017.10.12-13.42.26:261][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Laboratories.Laboratories to /Game/Maps/UEDPIE_0_Laboratories.Laboratories (0.273400s)
+[2017.10.12-13.42.26:410][423]LogInit: XAudio2 using 'Realtek Digital Output(RCA) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.12-13.42.26:424][423]LogInit: FAudioDevice initialized.
+[2017.10.12-13.42.26:688][423]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2017.10.12-13.42.26:881][423]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Laboratories.Laboratories up for play (max tick rate 0) at 2017.10.12-15.42.26
+[2017.10.12-13.42.26:971][423]LogWorld: Bringing up level for play took: 0.178359
+[2017.10.12-13.42.27:188][423]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2017.10.12-13.42.27:193][423]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-13.42.27:199][423]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-13.42.27:199][423]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-13.42.27:264][423]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-13.42.27:294][423]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-13.42.27:298][423]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Laboratories 4.507
+[2017.10.12-13.42.27:299][423]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-13.42.27:479][423]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/room1.room1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1.room1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-13.42.34:742][610]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-13.42.34:769][610]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-13.42.34:969][616]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 0 0 0
+[2017.10.12-13.42.35:253][619]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-13.42.35:280][619]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-13.42.36:248][661]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 0 0 0
+[2017.10.12-13.42.41:634][923]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-13.42.41:661][923]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-13.42.42:677][967]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 0 0 0
+[2017.10.12-13.42.43:852][ 19]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-13.42.43:878][ 19]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-13.42.46:627][145]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-13.42.46:904][158]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-13.42.54:162][501]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 0 0 0
+[2017.10.12-13.43.20:913][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-13.43.21:209][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-13.43.38:991][275]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.10.12-13.51.09:166][967]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Laboratories' took 0.143
+[2017.10.12-13.51.09:271][967]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2017.10.12-13.51.09:329][967]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2017.10.12-13.51.09:329][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/FirstPersonCharacter]
+[2017.10.12-13.51.09:980][967]LogSavePackage: Save=546.20ms
+[2017.10.12-13.51.09:980][967]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/FirstPersonCharacter_Auto1BA9FDC24493F5507B9AD05B5790267E0.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/FirstPerson/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2017.10.12-13.51.09:996][967]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/FirstPerson/Blueprints/FirstPersonCharacter_Auto1.uasset
+[2017.10.12-13.51.09:996][967]LogFileHelpers: Auto-saving content packages took 0.828
+[2017.10.12-14.02.48:309][558]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.02.54:111][926]LogEditorFactories: Performing atomic reimport of [D:/Git/Source files/NEWweapon.fbx]
+[2017.10.12-14.02.54:281][926]LogFbx: Loading FBX Scene from D:/Git/Source files/NEWweapon.fbx
+[2017.10.12-14.02.54:357][926]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.12-14.02.54:373][926]LogFbx: =================================================
+[2017.10.12-14.02.54:373][926]LogFbx: Dumping Node START [weapon] 
+[2017.10.12-14.02.54:373][926]LogFbx: 	Total Deformer Count 1285675280.
+[2017.10.12-14.02.54:373][926]LogFbx: 		[Node 1] Root_Bone (Type Skin).
+[2017.10.12-14.02.54:373][926]LogFbx: =================================================
+[2017.10.12-14.02.54:373][926]LogFbx: 	Attribute (weapon.001) Type (4).
+[2017.10.12-14.02.54:373][926]LogFbx: 		[Node Attribute Child 1] weapon (Type Mesh).
+[2017.10.12-14.02.54:373][926]LogFbx: Dumping Node END [weapon]
+[2017.10.12-14.02.54:374][926]LogFbx: =================================================
+[2017.10.12-14.02.54:374][926]LogFbx: Dumping Node START [weapon] 
+[2017.10.12-14.02.54:374][926]LogFbx: 	Total Deformer Count 1285675336.
+[2017.10.12-14.02.54:374][926]LogFbx: 		[Node 1] Root_Bone (Type Skin).
+[2017.10.12-14.02.54:374][926]LogFbx: =================================================
+[2017.10.12-14.02.54:374][926]LogFbx: 	Attribute (weapon.001) Type (4).
+[2017.10.12-14.02.54:374][926]LogFbx: 		[Node Attribute Child 1] weapon (Type Mesh).
+[2017.10.12-14.02.54:374][926]LogFbx: Dumping Node END [weapon]
+[2017.10.12-14.02.54:376][926]LogFbx: Valid bind pose for Pose (weapon.001) - weapon
+[2017.10.12-14.02.54:389][926]LogFbx: Triangulating skeletal mesh weapon
+[2017.10.12-14.02.55:890][926]LogUObjectHash:Warning: Ambiguous search, could be Material /Game/FirstPerson/flaps.flaps or Material /Game/FirstPerson/Textures/flaps.flaps
+[2017.10.12-14.02.55:890][926]LogUObjectHash:Warning: Ambiguous search, could be Material /Game/FirstPerson/guides.guides or Material /Game/FirstPerson/Textures/guides.guides
+[2017.10.12-14.02.55:890][926]LogUObjectHash:Warning: Ambiguous search, could be Material /Game/FirstPerson/weapon_body.weapon_body or Material /Game/FirstPerson/Textures/weapon_body.weapon_body
+[2017.10.12-14.02.55:915][926]LogFbx:Warning: Bones digested - 11  Depth of hierarchy - 5
+[2017.10.12-14.02.56:062][926]LogSkeletalMesh: Section 0: 36 vertices, 1 active bones
+[2017.10.12-14.02.56:062][926]LogSkeletalMesh: Section 1: 2282 vertices, 2 active bones
+[2017.10.12-14.02.56:062][926]LogSkeletalMesh: Section 2: 768 vertices, 1 active bones
+[2017.10.12-14.02.56:063][926]LogSkeletalMesh: Section 3: 1760 vertices, 1 active bones
+[2017.10.12-14.02.56:063][926]LogSkeletalMesh: Section 4: 2128 vertices, 3 active bones
+[2017.10.12-14.02.56:094][926]LogSkeletalMesh: Section 0: Material=0, 16 triangles
+[2017.10.12-14.02.56:094][926]LogSkeletalMesh: Section 1: Material=1, 1110 triangles
+[2017.10.12-14.02.56:094][926]LogSkeletalMesh: Section 2: Material=2, 356 triangles
+[2017.10.12-14.02.56:094][926]LogSkeletalMesh: Section 3: Material=3, 601 triangles
+[2017.10.12-14.02.56:094][926]LogSkeletalMesh: Section 4: Material=4, 720 triangles
+[2017.10.12-14.02.56:130][926]LogEditorFactories: -- imported successfully
+[2017.10.12-14.03.03:307][134]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.10.12-14.03.46:630][627]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.03.48:444][629]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.04.45:087][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.04.45:088][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.12-14.04.45:088][ 80]PIE: New page: PIE session: Laboratories (Oct 12, 2017, 6:04:45 PM)
+[2017.10.12-14.04.45:088][ 80]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Laboratories
+[2017.10.12-14.04.45:295][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.206864s)
+[2017.10.12-14.04.45:297][ 80]LogAIModule: Creating AISystem for world Laboratories
+[2017.10.12-14.04.45:298][ 80]LogPlayLevel: PIE: World Init took: (0.002588s)
+[2017.10.12-14.04.45:299][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Laboratories.Laboratories to /Game/Maps/UEDPIE_0_Laboratories.Laboratories (0.210536s)
+[2017.10.12-14.04.45:468][ 80]LogInit: XAudio2 using 'Realtek Digital Output(RCA) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.12-14.04.45:481][ 80]LogInit: FAudioDevice initialized.
+[2017.10.12-14.04.45:578][ 80]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2017.10.12-14.04.45:650][ 80]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Laboratories.Laboratories up for play (max tick rate 0) at 2017.10.12-16.04.45
+[2017.10.12-14.04.45:659][ 80]LogWorld: Bringing up level for play took: 0.080310
+[2017.10.12-14.04.45:661][ 80]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.04.45:662][ 80]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.04.45:662][ 80]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.04.45:667][ 80]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.04.45:669][ 80]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.04.45:669][ 80]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Laboratories 0.901
+[2017.10.12-14.04.45:670][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.04.45:677][ 80]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/room1.room1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1.room1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.04.46:722][ 82]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.04.47:260][ 84]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.05.03:004][782]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.05.03:030][782]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.05.09:805][113]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.05.12:866][258]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 0 0 0
+[2017.10.12-14.05.20:328][590]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.05.20:354][590]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.05.20:529][596]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.05.28:208][955]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 0 0 0
+[2017.10.12-14.05.49:547][996]LogLevel:Warning: Failed to find streaming level object associated with 'None'
+[2017.10.12-14.05.49:698][  4]LogLevel:Warning: Failed to find streaming level object associated with 'None'
+[2017.10.12-14.06.08:634][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.06.08:702][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.06.34:092][665]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.06.34:092][665]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.12-14.06.34:092][665]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2017.10.12-14.06.34:444][665]LogPlayLevel: [PlayLevel]   Compiling character_bp as a dependent...
+[2017.10.12-14.06.34:522][665]LogPlayLevel: [PlayLevel]   Compiling animbp as a dependent...
+[2017.10.12-14.06.35:715][665]LogPlayLevel: PlayLevel: Blueprint regeneration took 1623 ms (3 blueprints)
+[2017.10.12-14.06.35:716][665]PIE: New page: PIE session: Laboratories (Oct 12, 2017, 6:06:35 PM)
+[2017.10.12-14.06.35:716][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Laboratories
+[2017.10.12-14.06.35:854][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137854s)
+[2017.10.12-14.06.35:856][665]LogAIModule: Creating AISystem for world Laboratories
+[2017.10.12-14.06.35:856][665]LogPlayLevel: PIE: World Init took: (0.002490s)
+[2017.10.12-14.06.35:857][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Laboratories.Laboratories to /Game/Maps/UEDPIE_0_Laboratories.Laboratories (0.141440s)
+[2017.10.12-14.06.35:957][665]LogInit: XAudio2 using 'Realtek Digital Output(RCA) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.12-14.06.35:969][665]LogInit: FAudioDevice initialized.
+[2017.10.12-14.06.36:009][665]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2017.10.12-14.06.36:087][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Laboratories.Laboratories up for play (max tick rate 0) at 2017.10.12-16.06.36
+[2017.10.12-14.06.36:097][665]LogWorld: Bringing up level for play took: 0.086930
+[2017.10.12-14.06.36:099][665]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.06.36:099][665]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.06.36:099][665]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.06.36:105][665]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.06.36:107][665]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.06.36:107][665]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Laboratories 1.349
+[2017.10.12-14.06.36:107][665]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.06.36:114][665]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/room1.room1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1.room1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.06.59:018][742]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.06.59:085][742]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.07.19:393][295]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.07.19:393][295]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.12-14.07.19:393][295]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2017.10.12-14.07.19:744][295]LogPlayLevel: [PlayLevel]   Compiling character_bp as a dependent...
+[2017.10.12-14.07.19:823][295]LogPlayLevel: [PlayLevel]   Compiling animbp as a dependent...
+[2017.10.12-14.07.21:075][295]LogPlayLevel: PlayLevel: Blueprint regeneration took 1681 ms (3 blueprints)
+[2017.10.12-14.07.21:075][295]PIE: New page: PIE session: Laboratories (Oct 12, 2017, 6:07:21 PM)
+[2017.10.12-14.07.21:075][295]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Laboratories
+[2017.10.12-14.07.21:214][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138163s)
+[2017.10.12-14.07.21:216][295]LogAIModule: Creating AISystem for world Laboratories
+[2017.10.12-14.07.21:216][295]LogPlayLevel: PIE: World Init took: (0.002583s)
+[2017.10.12-14.07.21:217][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Laboratories.Laboratories to /Game/Maps/UEDPIE_0_Laboratories.Laboratories (0.141807s)
+[2017.10.12-14.07.21:316][295]LogInit: XAudio2 using 'Realtek Digital Output(RCA) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.12-14.07.21:328][295]LogInit: FAudioDevice initialized.
+[2017.10.12-14.07.21:370][295]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2017.10.12-14.07.21:444][295]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Laboratories.Laboratories up for play (max tick rate 0) at 2017.10.12-16.07.21
+[2017.10.12-14.07.21:453][295]LogWorld: Bringing up level for play took: 0.082261
+[2017.10.12-14.07.21:455][295]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.07.21:455][295]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.07.21:455][295]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.07.21:462][295]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.07.21:464][295]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.07.21:464][295]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Laboratories 2.711
+[2017.10.12-14.07.21:464][295]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.07.21:471][295]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/room1.room1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1.room1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.07.23:139][299]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.07.23:640][299]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.07.24:140][299]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.07.24:640][299]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.07.25:140][299]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.07.33:873][700]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.07.33:900][700]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.07.36:986][841]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.07.37:948][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.07.38:021][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.08.05:621][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.08.05:622][661]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.12-14.08.05:622][661]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2017.10.12-14.08.05:972][661]LogPlayLevel: [PlayLevel]   Compiling character_bp as a dependent...
+[2017.10.12-14.08.06:053][661]LogPlayLevel: [PlayLevel]   Compiling animbp as a dependent...
+[2017.10.12-14.08.07:327][661]LogPlayLevel: PlayLevel: Blueprint regeneration took 1704 ms (3 blueprints)
+[2017.10.12-14.08.07:328][661]PIE: New page: PIE session: Laboratories (Oct 12, 2017, 6:08:07 PM)
+[2017.10.12-14.08.07:328][661]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Laboratories
+[2017.10.12-14.08.07:468][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139513s)
+[2017.10.12-14.08.07:470][661]LogAIModule: Creating AISystem for world Laboratories
+[2017.10.12-14.08.07:470][661]LogPlayLevel: PIE: World Init took: (0.002622s)
+[2017.10.12-14.08.07:471][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Laboratories.Laboratories to /Game/Maps/UEDPIE_0_Laboratories.Laboratories (0.143291s)
+[2017.10.12-14.08.07:572][661]LogInit: XAudio2 using 'Realtek Digital Output(RCA) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.12-14.08.07:584][661]LogInit: FAudioDevice initialized.
+[2017.10.12-14.08.07:626][661]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2017.10.12-14.08.07:704][661]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Laboratories.Laboratories up for play (max tick rate 0) at 2017.10.12-16.08.07
+[2017.10.12-14.08.07:714][661]LogWorld: Bringing up level for play took: 0.086682
+[2017.10.12-14.08.07:716][661]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.08.07:716][661]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.08.07:716][661]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.08.07:722][661]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.08.07:724][661]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.08.07:724][661]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Laboratories 2.997
+[2017.10.12-14.08.07:725][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.08.07:732][661]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/room1.room1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1.room1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.08.09:262][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.08.09:762][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.08.10:262][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.08.10:762][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.08.11:262][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.08.11:762][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.08.12:262][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.08.18:026][909]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.08.18:092][909]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.09.07:434][319]LogEditorTransaction: Undo Attach Component
+[2017.10.12-14.09.23:561][ 52]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2017.10.12-14.10.06:054][400]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.11.55:834][317]LogEditorTransaction: Undo Modify Component(s)
+[2017.10.12-14.11.59:333][420]LogEditorTransaction: Undo Modify Component(s)
+[2017.10.12-14.13.07:388][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.13.07:389][186]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.12-14.13.07:389][186]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2017.10.12-14.13.07:752][186]LogPlayLevel: [PlayLevel]   Compiling character_bp as a dependent...
+[2017.10.12-14.13.07:833][186]LogPlayLevel: [PlayLevel]   Compiling animbp as a dependent...
+[2017.10.12-14.13.10:366][186]LogPlayLevel: PlayLevel: Blueprint regeneration took 2977 ms (3 blueprints)
+[2017.10.12-14.13.10:366][186]PIE: New page: PIE session: Laboratories (Oct 12, 2017, 6:13:10 PM)
+[2017.10.12-14.13.10:367][186]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Laboratories
+[2017.10.12-14.13.10:576][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.209071s)
+[2017.10.12-14.13.10:578][186]LogAIModule: Creating AISystem for world Laboratories
+[2017.10.12-14.13.10:578][186]LogPlayLevel: PIE: World Init took: (0.002594s)
+[2017.10.12-14.13.10:579][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Laboratories.Laboratories to /Game/Maps/UEDPIE_0_Laboratories.Laboratories (0.212762s)
+[2017.10.12-14.13.10:679][186]LogInit: XAudio2 using 'Realtek Digital Output(RCA) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.12-14.13.10:704][186]LogInit: FAudioDevice initialized.
+[2017.10.12-14.13.10:746][186]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2017.10.12-14.13.10:823][186]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Laboratories.Laboratories up for play (max tick rate 0) at 2017.10.12-16.13.10
+[2017.10.12-14.13.10:833][186]LogWorld: Bringing up level for play took: 0.085340
+[2017.10.12-14.13.10:835][186]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.13.10:835][186]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.13.10:835][186]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.13.10:841][186]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.13.10:855][186]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.13.10:856][186]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Laboratories 4.187
+[2017.10.12-14.13.10:856][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.13.10:863][186]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/room1.room1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1.room1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.13.24:171][674]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.13.24:199][674]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.13.29:446][910]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.13.29:670][920]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.13.36:949][248]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 0 0 0
+[2017.10.12-14.13.44:910][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.13.44:980][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.13.50:615][979]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.13.51:128][980]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.13.51:937][980]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.13.52:458][981]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.14.16:495][557]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.14.17:060][558]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.14.27:062][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.14.27:569][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.16.40:029][929]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.10.12-14.16.56:111][264]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.16.56:880][264]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.16.57:381][264]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.16.57:888][264]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.17.16:908][818]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.17.16:908][818]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.12-14.17.16:909][818]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2017.10.12-14.17.17:263][818]LogPlayLevel: [PlayLevel]   Compiling character_bp as a dependent...
+[2017.10.12-14.17.17:341][818]LogPlayLevel: [PlayLevel]   Compiling animbp as a dependent...
+[2017.10.12-14.17.18:546][818]LogPlayLevel: PlayLevel: Blueprint regeneration took 1637 ms (3 blueprints)
+[2017.10.12-14.17.18:546][818]PIE: New page: PIE session: Laboratories (Oct 12, 2017, 6:17:18 PM)
+[2017.10.12-14.17.18:546][818]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Laboratories
+[2017.10.12-14.17.18:750][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.203376s)
+[2017.10.12-14.17.18:752][818]LogAIModule: Creating AISystem for world Laboratories
+[2017.10.12-14.17.18:753][818]LogPlayLevel: PIE: World Init took: (0.002712s)
+[2017.10.12-14.17.18:753][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Laboratories.Laboratories to /Game/Maps/UEDPIE_0_Laboratories.Laboratories (0.207181s)
+[2017.10.12-14.17.18:853][818]LogInit: XAudio2 using 'Realtek Digital Output(RCA) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.12-14.17.18:866][818]LogInit: FAudioDevice initialized.
+[2017.10.12-14.17.18:908][818]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2017.10.12-14.17.18:981][818]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Laboratories.Laboratories up for play (max tick rate 0) at 2017.10.12-16.17.18
+[2017.10.12-14.17.18:991][818]LogWorld: Bringing up level for play took: 0.082032
+[2017.10.12-14.17.18:993][818]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.17.18:993][818]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.17.18:993][818]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.17.18:999][818]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.17.19:001][818]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.17.19:001][818]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Laboratories 2.343
+[2017.10.12-14.17.19:002][818]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.17.19:009][818]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/room1.room1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1.room1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.17.23:961][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.17.24:461][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.17.24:961][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.17.25:461][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.17.25:962][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.17.26:462][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.17.26:962][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.17.27:462][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.17.27:962][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.17.28:462][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.17.34:105][ 81]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.17.34:131][ 81]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.17.39:049][312]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 0 0 0
+[2017.10.12-14.17.42:731][483]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.17.42:759][483]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.17.47:135][692]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 0 0 0
+[2017.10.12-14.18.41:595][338]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.18.41:624][338]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.18.44:792][480]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.18.48:732][663]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.18.49:085][680]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 0 0 0
+[2017.10.12-14.18.49:146][681]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.18.50:529][740]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 0 0 0
+[2017.10.12-14.18.50:695][742]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.18.50:722][742]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.18.51:769][785]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 0 0 0
+[2017.10.12-14.18.52:007][790]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.18.52:012][790]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/room1.room1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1.room1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.18.52:816][827]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 0 0 0
+[2017.10.12-14.18.52:975][829]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.18.52:980][829]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/room1.room1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1.room1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.18.53:353][846]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.18.53:381][846]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.18.58:947][101]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 0 0 0
+[2017.10.12-14.18.59:542][122]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.18.59:607][122]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.19.01:385][149]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.19.22:549][742]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.10.12-14.19.25:650][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/FirstPersonCharacter" FILE="D:/Git/Loneliness/Content/FirstPerson/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2017.10.12-14.19.26:210][769]LogSavePackage: Save=423.28ms
+[2017.10.12-14.19.26:210][769]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/FirstPersonCharacter8E568EAA43859937D9D5ADB10C358C29.tmp' to 'D:/Git/Loneliness/Content/FirstPerson/Blueprints/FirstPersonCharacter.uasset'
+[2017.10.12-14.19.26:216][769]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/FirstPerson/Blueprints/FirstPersonCharacter.uasset
+[2017.10.12-14.19.47:831][893]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.10.12-14.20.01:000][949]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.20.01:540][950]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.20.03:900][959]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.20.05:667][959]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.20.06:249][960]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.20.07:180][962]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.20.07:691][963]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.20.13:195][966]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.20.13:932][966]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.20.36:664][586]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Laboratories' took 0.103
+[2017.10.12-14.20.36:691][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2017.10.12-14.20.36:691][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2017.10.12-14.20.36:769][586]LogSavePackage: Save=31.29ms
+[2017.10.12-14.20.36:769][586]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/UE4_Mannequin_Skeleton_Auto2FEC759B1498EB532AA1F50A92284AF6B.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto2.uasset'
+[2017.10.12-14.20.36:771][586]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto2.uasset
+[2017.10.12-14.20.36:771][586]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/NEWweapon] ([1] browsable assets)...
+[2017.10.12-14.20.37:234][586]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FirstPerson/NEWweapon.NEWweapon]
+[2017.10.12-14.20.37:234][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/NEWweapon]
+[2017.10.12-14.20.37:237][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/NEWweapon" FILE="D:/Git/Loneliness/Saved/Autosaves/Game/FirstPerson/NEWweapon_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.10.12-14.20.37:325][586]LogSavePackage: Save=69.09ms
+[2017.10.12-14.20.37:325][586]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/NEWweapon_Auto245BC9B904EE300AC4D39A3BB394006F8.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/FirstPerson/NEWweapon_Auto2.uasset'
+[2017.10.12-14.20.37:340][586]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/FirstPerson/NEWweapon_Auto2.uasset
+[2017.10.12-14.20.37:340][586]LogFileHelpers: Auto-saving content packages took 0.674
+[2017.10.12-14.23.29:162][473]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.23.29:665][473]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.23.32:278][477]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.23.32:280][477]BlueprintLog: New page: Compile lamp_bp
+[2017.10.12-14.23.36:060][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Blueprints/lamp_bp" FILE="D:/Git/Loneliness/Content/Geometry/Blueprints/lamp_bp.uasset" SILENT=true
+[2017.10.12-14.23.36:187][512]LogSavePackage: Save=102.80ms
+[2017.10.12-14.23.36:187][512]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/lamp_bp2655741340712699ABD00FBA738754D5.tmp' to 'D:/Git/Loneliness/Content/Geometry/Blueprints/lamp_bp.uasset'
+[2017.10.12-14.23.36:212][512]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Geometry/Blueprints/lamp_bp.uasset
+[2017.10.12-14.23.43:909][665]BlueprintLog: New page: Compile lamp_bp
+[2017.10.12-14.23.45:787][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Blueprints/lamp_bp" FILE="D:/Git/Loneliness/Content/Geometry/Blueprints/lamp_bp.uasset" SILENT=true
+[2017.10.12-14.23.45:884][678]LogSavePackage: Save=81.83ms
+[2017.10.12-14.23.45:884][678]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/lamp_bp06A2B8154EFE2AF9B7EB8390AD86048C.tmp' to 'D:/Git/Loneliness/Content/Geometry/Blueprints/lamp_bp.uasset'
+[2017.10.12-14.23.45:887][678]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Geometry/Blueprints/lamp_bp.uasset
+[2017.10.12-14.23.55:650][219]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.23.56:176][220]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.23.56:702][221]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.23.57:227][222]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.23.58:728][223]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.01:749][224]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.02:250][225]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.10.12-14.24.03:693][225]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.04:194][226]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.10.12-14.24.06:232][226]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.06:905][227]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.07:406][228]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.10.12-14.24.11:981][228]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.14:057][229]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.14:583][230]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.16:208][232]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.27:250][375]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.29:151][447]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.29:677][448]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.32:426][449]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.35:837][450]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.36:374][451]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.36:876][452]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.10.12-14.24.38:072][452]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.38:578][453]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.24.50:982][127]LogRenderer: Reallocating scene render targets to support 1392x916 (Frame:44149).
+[2017.10.12-14.25.02:149][129]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.25.55:384][731]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.25.55:891][732]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.26.55:026][ 32]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.55:026][ 32]LogEditorTransaction: Undo Edit Brightness Factor
+[2017.10.12-14.26.55:168][ 32]LogMaterial: 0.04 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.10.12-14.26.55:414][ 33]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.55:414][ 33]LogEditorTransaction: Undo Edit Dark_PP_blend_Amount
+[2017.10.12-14.26.55:490][ 33]LogMaterial: 0.04 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.10.12-14.26.55:740][ 34]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.55:740][ 34]LogEditorTransaction: Undo Edit Dark_PP_blend_Amount
+[2017.10.12-14.26.55:826][ 34]LogMaterial: 0.04 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.10.12-14.26.55:840][ 34]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.55:840][ 34]LogEditorTransaction: Undo Edit Brightness Factor
+[2017.10.12-14.26.55:989][ 34]LogMaterial: 0.04 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.10.12-14.26.56:079][ 35]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.56:079][ 35]LogEditorTransaction: Undo Edit Shadow Facor
+[2017.10.12-14.26.56:226][ 35]LogMaterial: 0.04 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.10.12-14.26.56:384][ 36]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.56:384][ 36]LogEditorTransaction: Undo Edit Dark_PP_blend_Amount
+[2017.10.12-14.26.56:464][ 36]LogMaterial: 0.04 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.10.12-14.26.56:647][ 37]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.56:647][ 37]LogEditorTransaction: Undo Edit Darkness Factor
+[2017.10.12-14.26.56:727][ 37]LogMaterial: 0.04 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.10.12-14.26.56:959][ 40]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.56:959][ 40]LogEditorTransaction: Undo Reset To Default
+[2017.10.12-14.26.57:252][ 47]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.57:252][ 47]LogEditorTransaction: Undo Reset To Default
+[2017.10.12-14.26.57:542][ 55]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.57:542][ 55]LogEditorTransaction: Undo Reset To Default
+[2017.10.12-14.26.57:855][ 64]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.57:855][ 64]LogEditorTransaction: Undo Reset To Default
+[2017.10.12-14.26.58:323][ 79]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.58:323][ 79]LogEditorTransaction: Undo Reset To Default
+[2017.10.12-14.26.58:837][ 96]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.58:837][ 96]LogEditorTransaction: Undo Edit Intensity
+[2017.10.12-14.26.59:315][ 97]Cmd: TRANSACTION UNDO
+[2017.10.12-14.26.59:315][ 97]LogEditorTransaction: Undo Edit Properties
+[2017.10.12-14.27.02:512][207]Cmd: TRANSACTION UNDO
+[2017.10.12-14.27.02:512][207]LogEditorTransaction: Undo Edit Attenuation Radius
+[2017.10.12-14.27.34:513][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.27.34:513][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.12-14.27.34:514][379]PIE: New page: PIE session: Laboratories (Oct 12, 2017, 6:27:34 PM)
+[2017.10.12-14.27.34:514][379]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Laboratories
+[2017.10.12-14.27.34:723][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208619s)
+[2017.10.12-14.27.34:725][379]LogAIModule: Creating AISystem for world Laboratories
+[2017.10.12-14.27.34:725][379]LogPlayLevel: PIE: World Init took: (0.002878s)
+[2017.10.12-14.27.34:727][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Laboratories.Laboratories to /Game/Maps/UEDPIE_0_Laboratories.Laboratories (0.213382s)
+[2017.10.12-14.27.34:858][379]LogInit: XAudio2 using 'Realtek Digital Output(RCA) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.12-14.27.34:885][379]LogInit: FAudioDevice initialized.
+[2017.10.12-14.27.34:926][379]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2017.10.12-14.27.35:000][379]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Laboratories.Laboratories up for play (max tick rate 0) at 2017.10.12-16.27.35
+[2017.10.12-14.27.35:010][379]LogWorld: Bringing up level for play took: 0.082989
+[2017.10.12-14.27.35:012][379]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.27.35:012][379]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.12-14.27.35:012][379]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.27.35:018][379]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.27.35:020][379]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.12-14.27.35:020][379]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Laboratories 0.543
+[2017.10.12-14.27.35:021][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.27.35:038][379]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/room1.room1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1.room1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.27.36:844][383]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.27.37:344][383]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.27.37:845][383]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.27.38:345][383]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.27.38:845][383]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.27.39:345][383]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.12-14.27.56:018][923]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.27.56:045][923]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.27.56:995][951]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 0 0 0
+[2017.10.12-14.28.02:225][119]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1 1 1 0
+[2017.10.12-14.28.02:253][119]LogWorld: PIE: Copying PIE streaming level from /Game/Maps/StreamingLevels/Floor1/hallway1.hallway1 to /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_hallway1.hallway1. OwningWorld: /Game/Maps/UEDPIE_0_Laboratories.Laboratories
+[2017.10.12-14.28.04:831][196]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.28.09:528][345]LogLevel: ActivateLevel /Game/Maps/StreamingLevels/Floor1/UEDPIE_0_room1 1 1 0
+[2017.10.12-14.28.10:410][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.28.10:481][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Laboratories.Laboratories:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories' with GeneratedClass '/Game/Maps/Laboratories.Laboratories_C' with ClassGeneratedBy '/Game/Maps/Laboratories.Laboratories:PersistentLevel.Laboratories'
+[2017.10.12-14.28.12:641][430]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors)
+[2017.10.12-14.30.06:570][306]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (wall9)
+[2017.10.12-14.30.07:669][311]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (wall9)
+[2017.10.12-14.30.08:550][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall9)
+[2017.10.12-14.33.39:984][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Materials/CelShader_PP_Inst" FILE="D:/Git/Loneliness/Content/Geometry/Materials/CelShader_PP_Inst.uasset" SILENT=true
+[2017.10.12-14.33.40:021][174]LogSavePackage: Save=17.03ms
+[2017.10.12-14.33.40:021][174]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/CelShader_PP_Inst5D24DCC84E3EE12C6DF5CFA34CF439E9.tmp' to 'D:/Git/Loneliness/Content/Geometry/Materials/CelShader_PP_Inst.uasset'
+[2017.10.12-14.33.40:024][174]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Geometry/Materials/CelShader_PP_Inst.uasset
+[2017.10.12-14.33.44:495][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton" FILE="D:/Git/Loneliness/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2017.10.12-14.33.44:535][298]LogSavePackage: Save=5.36ms
+[2017.10.12-14.33.44:535][298]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/UE4_Mannequin_SkeletonB70961334AD42740DDD0ACBB889B46F0.tmp' to 'D:/Git/Loneliness/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2017.10.12-14.33.44:589][298]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset
+[2017.10.12-14.33.46:290][331]LogSavePackage: Save=48.15ms
+[2017.10.12-14.33.46:290][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room1_Auto38D867FC44CF981EE94F091AB2518F0D0.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room1_Auto3.umap'
+[2017.10.12-14.33.46:292][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room1_Auto3.umap
+[2017.10.12-14.33.46:369][331]LogSavePackage: Save=49.97ms
+[2017.10.12-14.33.46:369][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room2_Auto39C94091F49F97C04FEB022B16FAE556B.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room2_Auto3.umap'
+[2017.10.12-14.33.46:371][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room2_Auto3.umap
+[2017.10.12-14.33.46:435][331]LogSavePackage: Save=43.86ms
+[2017.10.12-14.33.46:435][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room3_Auto366CA8B034503A41F0F128F9DB8ECE2D7.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room3_Auto3.umap'
+[2017.10.12-14.33.46:437][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room3_Auto3.umap
+[2017.10.12-14.33.46:519][331]LogSavePackage: Save=57.84ms
+[2017.10.12-14.33.46:519][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room4_Auto32494219F41BB3D150C2C949DED778AFA.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room4_Auto3.umap'
+[2017.10.12-14.33.46:521][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room4_Auto3.umap
+[2017.10.12-14.33.46:742][331]LogSavePackage: Save=195.30ms
+[2017.10.12-14.33.46:742][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway1_Auto384B6383A4F41C694ED20C8A62EED63AA.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway1_Auto3.umap'
+[2017.10.12-14.33.46:744][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway1_Auto3.umap
+[2017.10.12-14.33.46:836][331]LogSavePackage: Save=67.90ms
+[2017.10.12-14.33.46:836][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room6_Auto33EB5529641875A17A91F76B4475E92CF.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room6_Auto3.umap'
+[2017.10.12-14.33.46:838][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room6_Auto3.umap
+[2017.10.12-14.33.47:122][331]LogSavePackage: Save=259.53ms
+[2017.10.12-14.33.47:122][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway2_Auto37BB2181E419B09D0A27B448C8B1193F9.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway2_Auto3.umap'
+[2017.10.12-14.33.47:124][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway2_Auto3.umap
+[2017.10.12-14.33.47:207][331]LogSavePackage: Save=60.05ms
+[2017.10.12-14.33.47:207][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room7_Auto3E620AEC84785A3AE97B0A0A02129834D.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room7_Auto3.umap'
+[2017.10.12-14.33.47:209][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room7_Auto3.umap
+[2017.10.12-14.33.47:294][331]LogSavePackage: Save=62.41ms
+[2017.10.12-14.33.47:294][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room8_Auto3A51AD3C345F0A89D0C589A9673735707.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room8_Auto3.umap'
+[2017.10.12-14.33.47:296][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room8_Auto3.umap
+[2017.10.12-14.33.47:393][331]LogSavePackage: Save=73.82ms
+[2017.10.12-14.33.47:393][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room9_Auto311C2AEB54849A66514D334B7B13532CE.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room9_Auto3.umap'
+[2017.10.12-14.33.47:395][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room9_Auto3.umap
+[2017.10.12-14.33.47:716][331]LogSavePackage: Save=295.86ms
+[2017.10.12-14.33.47:716][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway3_Auto3EFCB9FFA489F803357F51B9561F65743.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway3_Auto3.umap'
+[2017.10.12-14.33.47:718][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway3_Auto3.umap
+[2017.10.12-14.33.47:811][331]LogSavePackage: Save=70.39ms
+[2017.10.12-14.33.47:811][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room10_Auto319357E524B6F4DCE5FACC99DF4330BC7.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room10_Auto3.umap'
+[2017.10.12-14.33.47:813][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room10_Auto3.umap
+[2017.10.12-14.33.47:906][331]LogSavePackage: Save=59.03ms
+[2017.10.12-14.33.47:906][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room11_Auto38E23827A4C079CEAB4A8F084828C6947.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room11_Auto3.umap'
+[2017.10.12-14.33.47:908][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room11_Auto3.umap
+[2017.10.12-14.33.48:123][331]LogSavePackage: Save=192.41ms
+[2017.10.12-14.33.48:124][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway4_Auto3A037D7894B23BFCA90B24A9AFC09CE5B.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway4_Auto3.umap'
+[2017.10.12-14.33.48:126][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway4_Auto3.umap
+[2017.10.12-14.33.48:200][331]LogSavePackage: Save=45.57ms
+[2017.10.12-14.33.48:200][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room12_Auto36978DAA54DC511E11A1E8C90D5E4F454.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room12_Auto3.umap'
+[2017.10.12-14.33.48:202][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room12_Auto3.umap
+[2017.10.12-14.33.48:336][331]LogSavePackage: Save=112.33ms
+[2017.10.12-14.33.48:336][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room13_Auto314A7FAC1450D3A90627B2F8F44AFB5B1.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room13_Auto3.umap'
+[2017.10.12-14.33.48:338][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room13_Auto3.umap
+[2017.10.12-14.33.48:441][331]LogSavePackage: Save=76.75ms
+[2017.10.12-14.33.48:441][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway5_Auto34F432D704C19D3FB9BB9C89F50F95392.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway5_Auto3.umap'
+[2017.10.12-14.33.48:443][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway5_Auto3.umap
+[2017.10.12-14.33.48:550][331]LogSavePackage: Save=83.66ms
+[2017.10.12-14.33.48:550][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room14_Auto31D9B51DB46185B9EBE34DD9AB2B09162.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room14_Auto3.umap'
+[2017.10.12-14.33.48:552][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room14_Auto3.umap
+[2017.10.12-14.33.48:603][331]LogSavePackage: Save=25.31ms
+[2017.10.12-14.33.48:603][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room15_Auto3E04A107F41DB70095C60E8876D3731AF.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room15_Auto3.umap'
+[2017.10.12-14.33.48:605][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room15_Auto3.umap
+[2017.10.12-14.33.48:653][331]LogSavePackage: Save=24.16ms
+[2017.10.12-14.33.48:653][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room16_Auto3D6FA3EB04DE1B4DE68EB6C941EF69C9B.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room16_Auto3.umap'
+[2017.10.12-14.33.48:655][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room16_Auto3.umap
+[2017.10.12-14.33.48:759][331]LogSavePackage: Save=78.32ms
+[2017.10.12-14.33.48:759][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway6_Auto3FEED127147BBCD32601A18A3D785A52C.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway6_Auto3.umap'
+[2017.10.12-14.33.48:761][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/hallway6_Auto3.umap
+[2017.10.12-14.33.48:809][331]LogSavePackage: Save=24.68ms
+[2017.10.12-14.33.48:809][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room17_Auto3921E00DE4F2B3B99EE17AF8981D92EDC.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room17_Auto3.umap'
+[2017.10.12-14.33.48:810][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room17_Auto3.umap
+[2017.10.12-14.33.48:874][331]LogSavePackage: Save=39.32ms
+[2017.10.12-14.33.48:874][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room18_Auto38BDDE71A4E3B0207E933E7B83D756B66.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room18_Auto3.umap'
+[2017.10.12-14.33.48:876][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room18_Auto3.umap
+[2017.10.12-14.33.48:938][331]LogSavePackage: Save=39.86ms
+[2017.10.12-14.33.48:939][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room19_Auto33BBBA2C542D988A6D8BCEB835604B874.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room19_Auto3.umap'
+[2017.10.12-14.33.48:940][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room19_Auto3.umap
+[2017.10.12-14.33.48:998][331]LogSavePackage: Save=33.63ms
+[2017.10.12-14.33.48:998][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room20_Auto30E24A3AA49583ED6202D63A207A64303.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room20_Auto3.umap'
+[2017.10.12-14.33.49:000][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room20_Auto3.umap
+[2017.10.12-14.33.49:051][331]LogSavePackage: Save=28.64ms
+[2017.10.12-14.33.49:051][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room21_Auto39390E9924F005A30202EA19406518527.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room21_Auto3.umap'
+[2017.10.12-14.33.49:053][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room21_Auto3.umap
+[2017.10.12-14.33.49:102][331]LogSavePackage: Save=24.42ms
+[2017.10.12-14.33.49:102][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room22_Auto3C5E8FFCE48F39697944C5C9BAE7368E5.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room22_Auto3.umap'
+[2017.10.12-14.33.49:104][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room22_Auto3.umap
+[2017.10.12-14.33.49:161][331]LogSavePackage: Save=33.99ms
+[2017.10.12-14.33.49:161][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room23_Auto3A8B493EE46719C13EEF91B8FA785E08E.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room23_Auto3.umap'
+[2017.10.12-14.33.49:163][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room23_Auto3.umap
+[2017.10.12-14.33.49:224][331]LogSavePackage: Save=35.80ms
+[2017.10.12-14.33.49:225][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room24_Auto31BEA00B74B99759779C3718C3F4A1DBC.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room24_Auto3.umap'
+[2017.10.12-14.33.49:226][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room24_Auto3.umap
+[2017.10.12-14.33.49:311][331]LogSavePackage: Save=60.82ms
+[2017.10.12-14.33.49:311][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room25_Auto3992730F542F8A0A12A8F37B0841BC675.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room25_Auto3.umap'
+[2017.10.12-14.33.49:313][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room25_Auto3.umap
+[2017.10.12-14.33.49:372][331]LogSavePackage: Save=32.56ms
+[2017.10.12-14.33.49:372][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room26_Auto39FABBC2346E403F0BAE20AAAE4E85F71.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room26_Auto3.umap'
+[2017.10.12-14.33.49:373][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room26_Auto3.umap
+[2017.10.12-14.33.49:442][331]LogSavePackage: Save=32.49ms
+[2017.10.12-14.33.49:442][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room27_Auto35E50E46E45140A4EBB223FB0B576F416.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room27_Auto3.umap'
+[2017.10.12-14.33.49:444][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room27_Auto3.umap
+[2017.10.12-14.33.49:500][331]LogSavePackage: Save=30.83ms
+[2017.10.12-14.33.49:500][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room28_Auto35ABE128D4857FD0A5BBAB49624F4B4C6.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room28_Auto3.umap'
+[2017.10.12-14.33.49:501][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room28_Auto3.umap
+[2017.10.12-14.33.49:561][331]LogSavePackage: Save=36.08ms
+[2017.10.12-14.33.49:561][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room29_Auto3A97DADE6460EF690C4B1DC9A169ED98C.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room29_Auto3.umap'
+[2017.10.12-14.33.49:563][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room29_Auto3.umap
+[2017.10.12-14.33.49:691][331]LogSavePackage: Save=103.12ms
+[2017.10.12-14.33.49:691][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room30_Auto37E8A66AF460E0741A3060B86CEEA4373.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room30_Auto3.umap'
+[2017.10.12-14.33.49:693][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room30_Auto3.umap
+[2017.10.12-14.33.49:797][331]LogSavePackage: Save=79.12ms
+[2017.10.12-14.33.49:797][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room31_Auto3CF4AF9464B234C74F320358148714B97.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room31_Auto3.umap'
+[2017.10.12-14.33.49:799][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room31_Auto3.umap
+[2017.10.12-14.33.49:857][331]LogSavePackage: Save=33.53ms
+[2017.10.12-14.33.49:857][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room32_Auto3B9301D0949794C581FC8948E740450A3.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room32_Auto3.umap'
+[2017.10.12-14.33.49:860][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room32_Auto3.umap
+[2017.10.12-14.33.49:925][331]LogSavePackage: Save=42.21ms
+[2017.10.12-14.33.49:925][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room33_Auto3A4A8781642E10DCB861FBFB1FBEEDB42.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room33_Auto3.umap'
+[2017.10.12-14.33.49:927][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room33_Auto3.umap
+[2017.10.12-14.33.49:988][331]LogSavePackage: Save=36.33ms
+[2017.10.12-14.33.49:988][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room34_Auto316C2E5394DAAA2B5964EDB8EC6D21F29.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room34_Auto3.umap'
+[2017.10.12-14.33.49:990][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room34_Auto3.umap
+[2017.10.12-14.33.50:051][331]LogSavePackage: Save=37.54ms
+[2017.10.12-14.33.50:051][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room35_Auto3DFDE4F7A496152BF51FFD5BFF690A8C4.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room35_Auto3.umap'
+[2017.10.12-14.33.50:053][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room35_Auto3.umap
+[2017.10.12-14.33.50:103][331]LogSavePackage: Save=25.44ms
+[2017.10.12-14.33.50:103][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room36_Auto3808B79164DF34A2B6A2534BAA8CFD1C0.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room36_Auto3.umap'
+[2017.10.12-14.33.50:105][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room36_Auto3.umap
+[2017.10.12-14.33.50:163][331]LogSavePackage: Save=33.93ms
+[2017.10.12-14.33.50:163][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room37_Auto3381E4CE44725120240FB8384EC0470CE.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room37_Auto3.umap'
+[2017.10.12-14.33.50:165][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room37_Auto3.umap
+[2017.10.12-14.33.50:239][331]LogSavePackage: Save=49.73ms
+[2017.10.12-14.33.50:239][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room38_Auto322A0B28D4AD03D4E5CFF0C8E02DFC84E.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room38_Auto3.umap'
+[2017.10.12-14.33.50:241][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room38_Auto3.umap
+[2017.10.12-14.33.50:295][331]LogSavePackage: Save=30.02ms
+[2017.10.12-14.33.50:295][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room39_Auto3F0A8BE094E93798DB083649847E1C73E.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room39_Auto3.umap'
+[2017.10.12-14.33.50:297][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room39_Auto3.umap
+[2017.10.12-14.33.50:349][331]LogSavePackage: Save=27.48ms
+[2017.10.12-14.33.50:349][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room40_Auto3DB49E704470276664B79E5942B7E1712.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room40_Auto3.umap'
+[2017.10.12-14.33.50:351][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room40_Auto3.umap
+[2017.10.12-14.33.50:411][331]LogSavePackage: Save=35.67ms
+[2017.10.12-14.33.50:411][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room41_Auto39721B7374BC000812589B386E47CEA6E.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room41_Auto3.umap'
+[2017.10.12-14.33.50:413][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room41_Auto3.umap
+[2017.10.12-14.33.50:465][331]LogSavePackage: Save=27.34ms
+[2017.10.12-14.33.50:465][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room42_Auto33D2DA75044E50CBD956F459199C25C02.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room42_Auto3.umap'
+[2017.10.12-14.33.50:467][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room42_Auto3.umap
+[2017.10.12-14.33.50:523][331]LogSavePackage: Save=30.90ms
+[2017.10.12-14.33.50:523][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room43_Auto36217AEF447EDCE92E5B957BED236AF44.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room43_Auto3.umap'
+[2017.10.12-14.33.50:524][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Maps/StreamingLevels/Floor1/room43_Auto3.umap
+[2017.10.12-14.33.50:526][331]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Laboratories' took 4.666
+[2017.10.12-14.33.50:526][331]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.666
+[2017.10.12-14.33.50:553][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Blueprints/lamp_bp] ([1] browsable assets)...
+[2017.10.12-14.33.50:553][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Blueprints/lamp_bp]
+[2017.10.12-14.33.50:553][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Blueprints/lamp_bp" FILE="D:/Git/Loneliness/Saved/Autosaves/Game/Geometry/Blueprints/lamp_bp_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.10.12-14.33.50:700][331]LogSavePackage: Save=79.66ms
+[2017.10.12-14.33.50:700][331]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/lamp_bp_Auto3CAFAE6024391FCC873FE88BE572B4F91.tmp' to 'D:/Git/Loneliness/Saved/Autosaves/Game/Geometry/Blueprints/lamp_bp_Auto3.uasset'
+[2017.10.12-14.33.50:716][331]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Saved/Autosaves/Game/Geometry/Blueprints/lamp_bp_Auto3.uasset
+[2017.10.12-14.33.50:716][331]LogFileHelpers: Auto-saving content packages took 0.187
+[2017.10.12-14.33.56:961][478]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.12-14.34.02:146][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room1" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.02:302][703]LogSavePackage: Save=35.83ms
+[2017.10.12-14.34.02:302][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room1B82ED10D48B8264E7A192991AF187DE0.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room1.umap'
+[2017.10.12-14.34.02:322][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room1.umap
+[2017.10.12-14.34.02:324][703]LogFileHelpers: Saving map 'room1' took 0.702
+[2017.10.12-14.34.02:587][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room2" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.02:752][703]LogSavePackage: Save=49.86ms
+[2017.10.12-14.34.02:752][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room285A65CAD4F43D6EECCB20CB79AF60E84.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room2.umap'
+[2017.10.12-14.34.02:756][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room2.umap
+[2017.10.12-14.34.02:758][703]LogFileHelpers: Saving map 'room2' took 0.427
+[2017.10.12-14.34.03:006][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room3" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.03:162][703]LogSavePackage: Save=44.63ms
+[2017.10.12-14.34.03:162][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room34B63FC19407AC98C576E158DBBD66564.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room3.umap'
+[2017.10.12-14.34.03:166][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room3.umap
+[2017.10.12-14.34.03:168][703]LogFileHelpers: Saving map 'room3' took 0.404
+[2017.10.12-14.34.03:423][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room4" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.03:593][703]LogSavePackage: Save=58.96ms
+[2017.10.12-14.34.03:593][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room4F348697447B1FFD467F34C8499B25CBD.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room4.umap'
+[2017.10.12-14.34.03:598][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room4.umap
+[2017.10.12-14.34.03:599][703]LogFileHelpers: Saving map 'room4' took 0.425
+[2017.10.12-14.34.03:850][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/hallway1" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.04:171][703]LogSavePackage: Save=193.27ms
+[2017.10.12-14.34.04:171][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway1E29228184CAAD201835365BDB81EBE4E.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway1.umap'
+[2017.10.12-14.34.04:176][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway1.umap
+[2017.10.12-14.34.04:177][703]LogFileHelpers: Saving map 'hallway1' took 0.572
+[2017.10.12-14.34.04:434][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room6" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.04:613][703]LogSavePackage: Save=67.24ms
+[2017.10.12-14.34.04:613][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room665E11FC341598ABB3A997E93697B462E.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room6.umap'
+[2017.10.12-14.34.04:617][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room6.umap
+[2017.10.12-14.34.04:619][703]LogFileHelpers: Saving map 'room6' took 0.436
+[2017.10.12-14.34.04:875][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/hallway2" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.05:242][703]LogSavePackage: Save=253.43ms
+[2017.10.12-14.34.05:242][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway28DA32B2F471A9FD3FAD5E7A3075094D4.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway2.umap'
+[2017.10.12-14.34.05:247][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway2.umap
+[2017.10.12-14.34.05:248][703]LogFileHelpers: Saving map 'hallway2' took 0.623
+[2017.10.12-14.34.05:510][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room7" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.05:682][703]LogSavePackage: Save=60.54ms
+[2017.10.12-14.34.05:682][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room7120087094FFC4E9847FB8BB121232799.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room7.umap'
+[2017.10.12-14.34.05:686][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room7.umap
+[2017.10.12-14.34.05:688][703]LogFileHelpers: Saving map 'room7' took 0.434
+[2017.10.12-14.34.05:945][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room8" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room8.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.06:121][703]LogSavePackage: Save=63.08ms
+[2017.10.12-14.34.06:121][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room88D72BF524437C5AF6D8D0C92AF1C34A0.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room8.umap'
+[2017.10.12-14.34.06:125][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room8.umap
+[2017.10.12-14.34.06:126][703]LogFileHelpers: Saving map 'room8' took 0.432
+[2017.10.12-14.34.06:376][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room9" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room9.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.06:567][703]LogSavePackage: Save=73.14ms
+[2017.10.12-14.34.06:568][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room9A1E4688841726DD73CA2DDAC6B3ABD12.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room9.umap'
+[2017.10.12-14.34.06:572][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room9.umap
+[2017.10.12-14.34.06:573][703]LogFileHelpers: Saving map 'room9' took 0.441
+[2017.10.12-14.34.06:824][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/hallway3" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.07:234][703]LogSavePackage: Save=289.75ms
+[2017.10.12-14.34.07:234][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway3E20CB51D4F528E16E28678A3CB4C48C9.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway3.umap'
+[2017.10.12-14.34.07:254][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway3.umap
+[2017.10.12-14.34.07:255][703]LogFileHelpers: Saving map 'hallway3' took 0.675
+[2017.10.12-14.34.07:514][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room10" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room10.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.07:697][703]LogSavePackage: Save=70.30ms
+[2017.10.12-14.34.07:697][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room101E1C6EF941FBD93B733B8DA0F4DB94F3.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room10.umap'
+[2017.10.12-14.34.07:701][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room10.umap
+[2017.10.12-14.34.07:703][703]LogFileHelpers: Saving map 'room10' took 0.441
+[2017.10.12-14.34.07:963][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room11" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room11.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.08:132][703]LogSavePackage: Save=58.01ms
+[2017.10.12-14.34.08:132][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room11D7D095A144467F9A1467038FE1485F14.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room11.umap'
+[2017.10.12-14.34.08:136][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room11.umap
+[2017.10.12-14.34.08:138][703]LogFileHelpers: Saving map 'room11' took 0.429
+[2017.10.12-14.34.08:387][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/hallway4" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.08:691][703]LogSavePackage: Save=188.19ms
+[2017.10.12-14.34.08:692][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway4DFE2E85F464479B4C2DF8F8BE23C3394.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway4.umap'
+[2017.10.12-14.34.08:696][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway4.umap
+[2017.10.12-14.34.08:697][703]LogFileHelpers: Saving map 'hallway4' took 0.553
+[2017.10.12-14.34.08:955][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room12" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room12.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.09:113][703]LogSavePackage: Save=46.00ms
+[2017.10.12-14.34.09:113][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room128FC3D0404ADB3EC53642D1BA0D5FF086.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room12.umap'
+[2017.10.12-14.34.09:117][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room12.umap
+[2017.10.12-14.34.09:118][703]LogFileHelpers: Saving map 'room12' took 0.415
+[2017.10.12-14.34.09:367][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room13" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room13.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.09:521][703]LogSavePackage: Save=33.91ms
+[2017.10.12-14.34.09:521][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room13262D487D461C375F18E9758595B7D861.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room13.umap'
+[2017.10.12-14.34.09:525][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room13.umap
+[2017.10.12-14.34.09:527][703]LogFileHelpers: Saving map 'room13' took 0.403
+[2017.10.12-14.34.09:777][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/hallway5" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.09:992][703]LogSavePackage: Save=88.57ms
+[2017.10.12-14.34.09:992][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway558B6BDC1443E42705432758EBDD92701.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway5.umap'
+[2017.10.12-14.34.09:996][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway5.umap
+[2017.10.12-14.34.09:998][703]LogFileHelpers: Saving map 'hallway5' took 0.466
+[2017.10.12-14.34.10:250][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room14" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room14.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.10:457][703]LogSavePackage: Save=95.08ms
+[2017.10.12-14.34.10:457][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room14A0CECAF74E9EAC089FC36D871D15D239.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room14.umap'
+[2017.10.12-14.34.10:461][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room14.umap
+[2017.10.12-14.34.10:463][703]LogFileHelpers: Saving map 'room14' took 0.459
+[2017.10.12-14.34.10:712][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room15" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room15.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.10:850][703]LogSavePackage: Save=26.22ms
+[2017.10.12-14.34.10:850][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room157594719D47D60C3FAEEB709C7D13DADA.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room15.umap'
+[2017.10.12-14.34.10:854][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room15.umap
+[2017.10.12-14.34.10:855][703]LogFileHelpers: Saving map 'room15' took 0.388
+[2017.10.12-14.34.11:116][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room16" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room16.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.11:249][703]LogSavePackage: Save=22.47ms
+[2017.10.12-14.34.11:250][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room164FAC9F414F680A257B95DFB3EF54017C.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room16.umap'
+[2017.10.12-14.34.11:253][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room16.umap
+[2017.10.12-14.34.11:255][703]LogFileHelpers: Saving map 'room16' took 0.393
+[2017.10.12-14.34.11:514][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/hallway6" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.11:706][703]LogSavePackage: Save=79.79ms
+[2017.10.12-14.34.11:706][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/hallway615069CA04D7E1179DFBA71B54D2C3374.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway6.umap'
+[2017.10.12-14.34.11:710][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/hallway6.umap
+[2017.10.12-14.34.11:712][703]LogFileHelpers: Saving map 'hallway6' took 0.450
+[2017.10.12-14.34.11:969][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room17" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room17.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.12:109][703]LogSavePackage: Save=25.47ms
+[2017.10.12-14.34.12:109][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room17CBAAE42B416E3363B4F8608D15A83B45.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room17.umap'
+[2017.10.12-14.34.12:113][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room17.umap
+[2017.10.12-14.34.12:114][703]LogFileHelpers: Saving map 'room17' took 0.397
+[2017.10.12-14.34.12:365][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room18" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room18.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.12:509][703]LogSavePackage: Save=23.59ms
+[2017.10.12-14.34.12:509][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room189B7CA2974013FE08AE4F3B8CE621D001.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room18.umap'
+[2017.10.12-14.34.12:512][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room18.umap
+[2017.10.12-14.34.12:514][703]LogFileHelpers: Saving map 'room18' took 0.393
+[2017.10.12-14.34.12:766][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room19" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room19.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.12:920][703]LogSavePackage: Save=40.05ms
+[2017.10.12-14.34.12:920][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room19F4B9B03F49D41D51500911B68C1A97D9.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room19.umap'
+[2017.10.12-14.34.12:924][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room19.umap
+[2017.10.12-14.34.12:926][703]LogFileHelpers: Saving map 'room19' took 0.406
+[2017.10.12-14.34.13:192][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room20" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room20.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.13:340][703]LogSavePackage: Save=33.48ms
+[2017.10.12-14.34.13:340][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room209453899B46A2220A03CC0E9683EBE4F8.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room20.umap'
+[2017.10.12-14.34.13:344][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room20.umap
+[2017.10.12-14.34.13:346][703]LogFileHelpers: Saving map 'room20' took 0.413
+[2017.10.12-14.34.13:607][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room21" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room21.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.13:748][703]LogSavePackage: Save=27.68ms
+[2017.10.12-14.34.13:748][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room21A048C7424931E4048C53159FC4211C8A.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room21.umap'
+[2017.10.12-14.34.13:752][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room21.umap
+[2017.10.12-14.34.13:754][703]LogFileHelpers: Saving map 'room21' took 0.401
+[2017.10.12-14.34.14:017][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room22" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room22.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.14:156][703]LogSavePackage: Save=24.66ms
+[2017.10.12-14.34.14:156][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room22E8D5E3ED46440DBA85E864B1A47A4BD5.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room22.umap'
+[2017.10.12-14.34.14:159][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room22.umap
+[2017.10.12-14.34.14:161][703]LogFileHelpers: Saving map 'room22' took 0.401
+[2017.10.12-14.34.14:412][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room23" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room23.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.14:561][703]LogSavePackage: Save=28.77ms
+[2017.10.12-14.34.14:561][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room23B7AB9A594948D5C3CC19D0A849AE8858.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room23.umap'
+[2017.10.12-14.34.14:565][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room23.umap
+[2017.10.12-14.34.14:567][703]LogFileHelpers: Saving map 'room23' took 0.399
+[2017.10.12-14.34.14:818][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room24" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room24.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.14:967][703]LogSavePackage: Save=36.00ms
+[2017.10.12-14.34.14:967][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room240C8742D0403B9A4051DAFDA0BEEB335A.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room24.umap'
+[2017.10.12-14.34.14:971][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room24.umap
+[2017.10.12-14.34.14:973][703]LogFileHelpers: Saving map 'room24' took 0.400
+[2017.10.12-14.34.15:239][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room25" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room25.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.15:401][703]LogSavePackage: Save=48.61ms
+[2017.10.12-14.34.15:401][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room251B5F69624BCEF6967CD91DBD4CDB6EEC.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room25.umap'
+[2017.10.12-14.34.15:404][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room25.umap
+[2017.10.12-14.34.15:406][703]LogFileHelpers: Saving map 'room25' took 0.424
+[2017.10.12-14.34.15:675][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room26" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room26.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.15:819][703]LogSavePackage: Save=32.66ms
+[2017.10.12-14.34.15:819][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room26D1C6C0044B95FDB226FD9891786169AF.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room26.umap'
+[2017.10.12-14.34.15:823][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room26.umap
+[2017.10.12-14.34.15:825][703]LogFileHelpers: Saving map 'room26' took 0.411
+[2017.10.12-14.34.16:082][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room27" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room27.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.16:227][703]LogSavePackage: Save=32.71ms
+[2017.10.12-14.34.16:227][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room278FCDA1284EF95135E229C5A0CB10BA8C.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room27.umap'
+[2017.10.12-14.34.16:230][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room27.umap
+[2017.10.12-14.34.16:232][703]LogFileHelpers: Saving map 'room27' took 0.401
+[2017.10.12-14.34.16:486][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room28" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room28.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.16:635][703]LogSavePackage: Save=30.74ms
+[2017.10.12-14.34.16:635][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room28A9CD74C44182D8B3BC1EDAB0A30F2FFC.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room28.umap'
+[2017.10.12-14.34.16:639][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room28.umap
+[2017.10.12-14.34.16:641][703]LogFileHelpers: Saving map 'room28' took 0.402
+[2017.10.12-14.34.16:893][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room29" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room29.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.17:048][703]LogSavePackage: Save=43.38ms
+[2017.10.12-14.34.17:048][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room29225505B94CEB7C35DEDB22AA761CE2CB.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room29.umap'
+[2017.10.12-14.34.17:051][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room29.umap
+[2017.10.12-14.34.17:053][703]LogFileHelpers: Saving map 'room29' took 0.406
+[2017.10.12-14.34.17:309][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room30" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room30.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.17:517][703]LogSavePackage: Save=97.91ms
+[2017.10.12-14.34.17:517][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room3039910448467C9CD15260338E5C463B3C.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room30.umap'
+[2017.10.12-14.34.17:522][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room30.umap
+[2017.10.12-14.34.17:523][703]LogFileHelpers: Saving map 'room30' took 0.464
+[2017.10.12-14.34.17:781][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room31" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room31.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.17:971][703]LogSavePackage: Save=76.83ms
+[2017.10.12-14.34.17:971][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room315C19C2944F1974A19C05C48D359CE40C.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room31.umap'
+[2017.10.12-14.34.17:995][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room31.umap
+[2017.10.12-14.34.17:998][703]LogFileHelpers: Saving map 'room31' took 0.469
+[2017.10.12-14.34.18:257][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room32" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room32.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.18:402][703]LogSavePackage: Save=33.81ms
+[2017.10.12-14.34.18:402][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room32220E5E7C48F49230CC21ED9BDCDC416F.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room32.umap'
+[2017.10.12-14.34.18:406][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room32.umap
+[2017.10.12-14.34.18:407][703]LogFileHelpers: Saving map 'room32' took 0.404
+[2017.10.12-14.34.18:668][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room33" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room33.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.18:822][703]LogSavePackage: Save=41.44ms
+[2017.10.12-14.34.18:822][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room33CCE6624E4755F48E7808C7BD24EB03CB.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room33.umap'
+[2017.10.12-14.34.18:826][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room33.umap
+[2017.10.12-14.34.18:828][703]LogFileHelpers: Saving map 'room33' took 0.414
+[2017.10.12-14.34.19:091][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room34" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room34.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.19:239][703]LogSavePackage: Save=37.32ms
+[2017.10.12-14.34.19:239][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room34A64B0B8E4DB42BB56F874BB8ACE71CB4.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room34.umap'
+[2017.10.12-14.34.19:243][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room34.umap
+[2017.10.12-14.34.19:245][703]LogFileHelpers: Saving map 'room34' took 0.411
+[2017.10.12-14.34.19:501][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room35" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room35.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.19:657][703]LogSavePackage: Save=36.50ms
+[2017.10.12-14.34.19:658][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room35F68987A542388457D1A1D08C480DD91F.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room35.umap'
+[2017.10.12-14.34.19:661][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room35.umap
+[2017.10.12-14.34.19:663][703]LogFileHelpers: Saving map 'room35' took 0.410
+[2017.10.12-14.34.19:915][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room36" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room36.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.20:055][703]LogSavePackage: Save=26.62ms
+[2017.10.12-14.34.20:055][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room364C16318C40167394A3BACE92A1B3A140.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room36.umap'
+[2017.10.12-14.34.20:058][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room36.umap
+[2017.10.12-14.34.20:060][703]LogFileHelpers: Saving map 'room36' took 0.391
+[2017.10.12-14.34.20:324][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room37" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room37.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.20:462][703]LogSavePackage: Save=27.01ms
+[2017.10.12-14.34.20:462][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room374B8C75AA4C7424372EA60BB4CEA35206.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room37.umap'
+[2017.10.12-14.34.20:466][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room37.umap
+[2017.10.12-14.34.20:467][703]LogFileHelpers: Saving map 'room37' took 0.400
+[2017.10.12-14.34.20:733][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room38" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room38.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.20:895][703]LogSavePackage: Save=48.74ms
+[2017.10.12-14.34.20:895][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room383381A0FC457ED31A748119A2D357AF20.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room38.umap'
+[2017.10.12-14.34.20:899][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room38.umap
+[2017.10.12-14.34.20:900][703]LogFileHelpers: Saving map 'room38' took 0.426
+[2017.10.12-14.34.21:161][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room39" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room39.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.21:304][703]LogSavePackage: Save=29.76ms
+[2017.10.12-14.34.21:304][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room39A97A3DF948B18E64D4EA868A77FB6D9D.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room39.umap'
+[2017.10.12-14.34.21:307][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room39.umap
+[2017.10.12-14.34.21:309][703]LogFileHelpers: Saving map 'room39' took 0.402
+[2017.10.12-14.34.21:565][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room40" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room40.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.21:712][703]LogSavePackage: Save=28.32ms
+[2017.10.12-14.34.21:712][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room40375311094A681FFDB6B82D8DF989E1E9.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room40.umap'
+[2017.10.12-14.34.21:716][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room40.umap
+[2017.10.12-14.34.21:718][703]LogFileHelpers: Saving map 'room40' took 0.402
+[2017.10.12-14.34.21:973][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room41" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room41.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.22:127][703]LogSavePackage: Save=38.54ms
+[2017.10.12-14.34.22:127][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room418B9F49B9419ECBE632EAB2B95F66507D.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room41.umap'
+[2017.10.12-14.34.22:130][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room41.umap
+[2017.10.12-14.34.22:132][703]LogFileHelpers: Saving map 'room41' took 0.407
+[2017.10.12-14.34.22:387][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room42" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room42.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.22:525][703]LogSavePackage: Save=27.54ms
+[2017.10.12-14.34.22:525][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room4277174616485FBB1A4A7FA9B7B5F23F52.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room42.umap'
+[2017.10.12-14.34.22:528][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room42.umap
+[2017.10.12-14.34.22:530][703]LogFileHelpers: Saving map 'room42' took 0.392
+[2017.10.12-14.34.22:795][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StreamingLevels/Floor1/room43" FILE="D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room43.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.12-14.34.22:938][703]LogSavePackage: Save=30.81ms
+[2017.10.12-14.34.22:938][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/room43172EF18F45BCD9B59A9BD494C368D01B.tmp' to 'D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room43.umap'
+[2017.10.12-14.34.22:941][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Maps/StreamingLevels/Floor1/room43.umap
+[2017.10.12-14.34.22:943][703]LogFileHelpers: Saving map 'room43' took 0.406
+[2017.10.12-14.34.22:950][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/NEWweapon" FILE="D:/Git/Loneliness/Content/FirstPerson/NEWweapon.uasset" SILENT=true
+[2017.10.12-14.34.23:022][703]LogSavePackage: Save=47.06ms
+[2017.10.12-14.34.23:022][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/NEWweapon472258C049AF528DD5845EB320AA43CA.tmp' to 'D:/Git/Loneliness/Content/FirstPerson/NEWweapon.uasset'
+[2017.10.12-14.34.23:025][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/FirstPerson/NEWweapon.uasset
+[2017.10.12-14.34.23:034][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Blueprints/lamp_bp" FILE="D:/Git/Loneliness/Content/Geometry/Blueprints/lamp_bp.uasset" SILENT=true
+[2017.10.12-14.34.23:133][703]LogSavePackage: Save=77.90ms
+[2017.10.12-14.34.23:133][703]LogSavePackage: Moving 'D:/Git/Loneliness/Saved/lamp_bp6E16AE7F48D03D93C38D709A9AF494F6.tmp' to 'D:/Git/Loneliness/Content/Geometry/Blueprints/lamp_bp.uasset'
+[2017.10.12-14.34.23:138][703]LogSavePackage:Display: Finished SavePackage D:/Git/Loneliness/Content/Geometry/Blueprints/lamp_bp.uasset
+[2017.10.12-14.34.32:501][420]Cmd: QUIT_EDITOR
+[2017.10.12-14.34.34:266][420]LogExit: Preparing to exit.
+[2017.10.12-14.34.36:688][420]LogExit: Editor shut down
+[2017.10.12-14.34.36:688][420]LogExit: Transaction tracking system shut down
+[2017.10.12-14.34.41:013][420]LogObj: Freed 0b from 0 cluster array pools.
+[2017.10.12-14.34.41:014][420]LogExit: Object subsystem successfully closed.
+[2017.10.12-14.34.41:917][420]LogD3D11RHI: Shutdown
+[2017.10.12-14.34.41:917][420]LogD3D11RHI: CleanupD3DDevice
+[2017.10.12-14.34.42:985][420]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.12-14.34.44:578][420]LogModuleManager: Shutting down and abandoning module MaterialEditor (238)
+[2017.10.12-14.34.44:578][420]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (237)
+[2017.10.12-14.34.44:578][420]LogModuleManager: Shutting down and abandoning module BlueprintGraph (236)
+[2017.10.12-14.34.44:578][420]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (235)
+[2017.10.12-14.34.44:596][420]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (234)
+[2017.10.12-14.34.44:604][420]LogModuleManager: Shutting down and abandoning module CrashTracker (233)
+[2017.10.12-14.34.44:607][420]LogModuleManager: Shutting down and abandoning module SceneOutliner (232)
+[2017.10.12-14.34.44:607][420]LogModuleManager: Shutting down and abandoning module WorldBrowser (231)
+[2017.10.12-14.34.44:617][420]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2017.10.12-14.34.44:617][420]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2017.10.12-14.34.44:721][420]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.13/FeaturePacks/' was aborted.
+[2017.10.12-14.34.44:735][420]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2017.10.12-14.34.44:735][420]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2017.10.12-14.34.44:735][420]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2017.10.12-14.34.44:750][420]LogDirectoryWatcher: A directory notification for 'D:/Git/Loneliness/Content/Collections/' was aborted.
+[2017.10.12-14.34.44:750][420]LogDirectoryWatcher: A directory notification for 'D:/Git/Loneliness/Content/Developers/Администратор/Collections/' was aborted.
+[2017.10.12-14.34.44:751][420]LogDirectoryWatcher: A directory notification for 'D:/Git/Loneliness/Saved/Collections/' was aborted.
+[2017.10.12-14.34.44:751][420]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2017.10.12-14.34.44:752][420]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2017.10.12-14.34.44:766][420]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2017.10.12-14.34.44:792][420]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2017.10.12-14.34.44:792][420]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2017.10.12-14.34.44:792][420]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2017.10.12-14.34.44:792][420]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2017.10.12-14.34.44:792][420]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2017.10.12-14.34.44:817][420]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2017.10.12-14.34.44:846][420]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2017.10.12-14.34.44:846][420]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2017.10.12-14.34.44:863][420]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2017.10.12-14.34.44:872][420]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2017.10.12-14.34.44:883][420]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2017.10.12-14.34.44:897][420]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module Media (206)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2017.10.12-14.34.44:967][420]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2017.10.12-14.34.44:993][420]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2017.10.12-14.34.45:007][420]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2017.10.12-14.34.45:025][420]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2017.10.12-14.34.45:025][420]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2017.10.12-14.34.45:056][420]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2017.10.12-14.34.45:056][420]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2017.10.12-14.34.45:744][420]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2017.10.12-14.34.45:766][420]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2017.10.12-14.34.45:766][420]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2017.10.12-14.34.45:766][420]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2017.10.12-14.34.45:842][420]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2017.10.12-14.34.45:848][420]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2017.10.12-14.34.45:856][420]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2017.10.12-14.34.45:871][420]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2017.10.12-14.34.45:871][420]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2017.10.12-14.34.45:881][420]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2017.10.12-14.34.45:926][420]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2017.10.12-14.34.45:926][420]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2017.10.12-14.34.45:950][420]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2017.10.12-14.34.45:973][420]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2017.10.12-14.34.45:973][420]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2017.10.12-14.34.45:981][420]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2017.10.12-14.34.45:997][420]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2017.10.12-14.34.46:005][420]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2017.10.12-14.34.46:005][420]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2017.10.12-14.34.46:106][420]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2017.10.12-14.34.46:106][420]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2017.10.12-14.34.46:130][420]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2017.10.12-14.34.46:168][420]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2017.10.12-14.34.46:179][420]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2017.10.12-14.34.46:203][420]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2017.10.12-14.34.46:203][420]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2017.10.12-14.34.46:256][420]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2017.10.12-14.34.46:267][420]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2017.10.12-14.34.46:310][420]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2017.10.12-14.34.46:363][420]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2017.10.12-14.34.46:363][420]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2017.10.12-14.34.46:459][420]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2017.10.12-14.34.46:459][420]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2017.10.12-14.34.46:459][420]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2017.10.12-14.34.46:536][420]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2017.10.12-14.34.46:599][420]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2017.10.12-14.34.46:599][420]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2017.10.12-14.34.46:651][420]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2017.10.12-14.34.46:667][420]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2017.10.12-14.34.46:682][420]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2017.10.12-14.34.46:710][420]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2017.10.12-14.34.46:715][420]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2017.10.12-14.34.46:733][420]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2017.10.12-14.34.46:733][420]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2017.10.12-14.34.46:739][420]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2017.10.12-14.34.46:739][420]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2017.10.12-14.34.46:739][420]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2017.10.12-14.34.46:739][420]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2017.10.12-14.34.46:739][420]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2017.10.12-14.34.46:739][420]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2017.10.12-14.34.46:765][420]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2017.10.12-14.34.46:771][420]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2017.10.12-14.34.46:771][420]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2017.10.12-14.34.46:884][420]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2017.10.12-14.34.46:919][420]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2017.10.12-14.34.46:919][420]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2017.10.12-14.34.46:919][420]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2017.10.12-14.34.46:919][420]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2017.10.12-14.34.46:936][420]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2017.10.12-14.34.46:936][420]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2017.10.12-14.34.46:951][420]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2017.10.12-14.34.46:951][420]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2017.10.12-14.34.46:951][420]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2017.10.12-14.34.46:951][420]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2017.10.12-14.34.46:951][420]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2017.10.12-14.34.46:981][420]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2017.10.12-14.34.46:981][420]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2017.10.12-14.34.46:981][420]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2017.10.12-14.34.46:981][420]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2017.10.12-14.34.46:981][420]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2017.10.12-14.34.46:993][420]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2017.10.12-14.34.46:993][420]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2017.10.12-14.34.46:993][420]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2017.10.12-14.34.46:993][420]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2017.10.12-14.34.47:048][420]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2017.10.12-14.34.47:086][420]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2017.10.12-14.34.47:105][420]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2017.10.12-14.34.47:105][420]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2017.10.12-14.34.47:123][420]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2017.10.12-14.34.47:123][420]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2017.10.12-14.34.47:163][420]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2017.10.12-14.34.47:199][420]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2017.10.12-14.34.47:233][420]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2017.10.12-14.34.47:249][420]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2017.10.12-14.34.47:249][420]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2017.10.12-14.34.47:249][420]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2017.10.12-14.34.47:249][420]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2017.10.12-14.34.47:249][420]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2017.10.12-14.34.47:269][420]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2017.10.12-14.34.47:294][420]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2017.10.12-14.34.47:330][420]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2017.10.12-14.34.47:330][420]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2017.10.12-14.34.47:332][420]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2017.10.12-14.34.47:334][420]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2017.10.12-14.34.47:351][420]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2017.10.12-14.34.47:451][420]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2017.10.12-14.34.47:562][420]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2017.10.12-14.34.47:563][420]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2017.10.12-14.34.47:576][420]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2017.10.12-14.34.47:582][420]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2017.10.12-14.34.47:653][420]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2017.10.12-14.34.47:653][420]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2017.10.12-14.34.47:671][420]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2017.10.12-14.34.47:687][420]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2017.10.12-14.34.47:687][420]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2017.10.12-14.34.47:688][420]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2017.10.12-14.34.47:688][420]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2017.10.12-14.34.47:750][420]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2017.10.12-14.34.47:750][420]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2017.10.12-14.34.47:785][420]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2017.10.12-14.34.47:814][420]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2017.10.12-14.34.47:814][420]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2017.10.12-14.34.47:814][420]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2017.10.12-14.34.48:211][420]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2017.10.12-14.34.48:245][420]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2017.10.12-14.34.48:245][420]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2017.10.12-14.34.48:296][420]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2017.10.12-14.34.48:296][420]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2017.10.12-14.34.48:302][420]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2017.10.12-14.34.48:303][420]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2017.10.12-14.34.48:303][420]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2017.10.12-14.34.48:303][420]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2017.10.12-14.34.48:303][420]LogModuleManager: Shutting down and abandoning module Core (67)
+[2017.10.12-14.34.48:303][420]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2017.10.12-14.34.48:303][420]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.12-14.34.48:303][420]LogDirectoryWatcher: A directory notification for 'D:/Git/Loneliness/Content/' was aborted.
+[2017.10.12-14.34.48:303][420]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.12-14.34.48:305][420]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2017.10.12-14.34.48:552][420]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2017.10.12-14.34.48:552][420]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2017.10.12-14.34.48:565][420]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2017.10.12-14.34.48:574][420]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2017.10.12-14.34.48:646][420]LogDerivedDataCache: Shutdown
+[2017.10.12-14.34.48:647][420]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2017.10.12-14.34.48:668][420]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2017.10.12-14.34.48:723][420]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2017.10.12-14.34.48:756][420]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2017.10.12-14.34.48:798][420]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2017.10.12-14.34.48:798][420]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2017.10.12-14.34.48:826][420]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2017.10.12-14.34.48:851][420]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2017.10.12-14.34.48:912][420]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2017.10.12-14.34.48:912][420]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2017.10.12-14.34.48:912][420]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2017.10.12-14.34.48:912][420]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2017.10.12-14.34.48:938][420]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2017.10.12-14.34.48:958][420]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2017.10.12-14.34.48:968][420]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2017.10.12-14.34.48:968][420]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2017.10.12-14.34.48:980][420]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2017.10.12-14.34.48:996][420]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2017.10.12-14.34.49:014][420]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2017.10.12-14.34.49:014][420]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2017.10.12-14.34.49:014][420]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2017.10.12-14.34.49:014][420]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2017.10.12-14.34.49:014][420]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2017.10.12-14.34.49:020][420]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2017.10.12-14.34.49:034][420]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2017.10.12-14.34.49:041][420]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2017.10.12-14.34.49:041][420]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2017.10.12-14.34.49:057][420]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2017.10.12-14.34.49:076][420]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2017.10.12-14.34.49:076][420]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2017.10.12-14.34.49:076][420]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2017.10.12-14.34.49:076][420]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2017.10.12-14.34.49:091][420]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2017.10.12-14.34.49:101][420]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2017.10.12-14.34.49:112][420]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.10.12-14.34.49:112][420]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.10.12-14.34.49:112][420]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.10.12-14.34.49:112][420]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.10.12-14.34.49:112][420]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.10.12-14.34.49:140][420]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2017.10.12-14.34.49:140][420]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2017.10.12-14.34.49:166][420]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2017.10.12-14.34.49:166][420]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2017.10.12-14.34.49:202][420]LogOnline:Display: Unloading online subsystem: NULL
+[2017.10.12-14.34.49:223][420]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.10.12-14.34.49:223][420]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.12-14.34.49:223][420]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45060923-437C-9610-D17C-CF95FB2FB875%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=92edb32641e7b5dab51448b960f630a1%7Cced3a19fefb64cdf8fc981c8aa04a526%7Cb7dd3fa6-999d-4a07-a591-a6be22ab12b9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.12-14.34.49:336][420]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.10.12-14.34.49:370][420]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.10.12-14.34.49:685][420]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.10.12-14.34.49:705][420]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.10.12-14.34.49:705][420]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.10.12-14.34.49:830][420]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.10.12-14.34.49:849][420]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.10.12-14.34.49:849][420]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.10.12-14.34.49:849][420]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.10.12-14.34.49:849][420]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.10.12-14.34.49:849][420]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.10.12-14.34.49:849][420]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.10.12-14.34.49:857][420]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.10.12-14.34.49:865][420]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.10.12-14.34.49:865][420]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.10.12-14.34.50:138][420]LogExit: Exiting.
+[2017.10.12-14.34.50:876][420]Log file closed, 10/12/17 16:34:50
